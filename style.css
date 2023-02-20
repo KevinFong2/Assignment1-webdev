@@ -1,7 +1,6 @@
 .titleFont{
     text-align: center;
-    border: 2px greenyellow;
-    font-size: 35px;
+
 }
 
 .unovaRegion{
@@ -19,5 +18,21 @@
 }
 
 #images{
+    text-align: center;
+}
+
+.unovaButton{
+    padding: 30px;
+    border-radius: 12px;
+    background-color: green;
+}
+
+.kalosButton{
+    padding: 30px;
+    border-radius: 12px;
+    margin-left: 500px;
+    background-color:aqua;
+}
+#buttons{
     text-align: center;
 }
