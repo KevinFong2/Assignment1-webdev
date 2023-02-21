@@ -1,6 +1,5 @@
-.titleFont{
+.centerText{
     text-align: center;
-
 }
 
 .unovaRegion{
@@ -23,18 +22,23 @@
 
 .unovaButton{
     padding: 30px;
-    border-radius: 12px;
-    background-color: green;
+    border-radius: 20px;
+    background-color:rgb(67, 67, 206);
     cursor: pointer ;
+    font-size: 20px;
+    color: red;
 }
 
 .kalosButton{
     padding: 30px;
-    border-radius: 12px;
+    border-radius: 20px;
     margin-left: 500px;
-    background-color:aqua;
+    background-color:green;
     cursor: pointer;
+    font-size: 20px;
+    color: blue;
 }
+
 #buttons{
     text-align: center;
 }
