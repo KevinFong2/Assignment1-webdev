@@ -1,0 +1,36 @@
+.kalosRegion{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+figure{
+    display: inline-block;
+}
+
+figcaption{
+    text-align: center;
+    color: red ;
+}
+
+table{
+    width: 75%;
+}
+
+table,th,td{
+    border: 1px solid black;
+    border-collapse:collapse;
+}
+
+th,td{
+    background-color: pink;
+}
+
+.homeButton{
+    margin-top: 10px;
+    padding: 30px;
+    border-radius: 20px;
+    background-color:aqua;
+    cursor: pointer;
+}
