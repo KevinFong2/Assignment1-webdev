@@ -1,5 +1,5 @@
 .unovaRegion{
-    width: 25%;
+    width: 30%;
 }
 
 figure{
@@ -21,14 +21,14 @@ table,th,td{
 }
 
 th,td{
-    background-color: rgb(207, 69, 69);
+    background-color: pink;
 }
 
 
 .homeButton{
-    margin-top: 50px;
+    margin-top: 10px;
     padding: 30px;
-    border-radius: 12px;
+    border-radius: 20px;
     background-color:aqua;
     cursor: pointer;
 }
